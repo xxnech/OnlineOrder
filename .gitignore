@@ -1,0 +1,5 @@
+# Project exclude paths
+/classes/
+/target/
+/.idea/
+/OnlineOrder.iml
